@@ -1,0 +1,21 @@
+# Claude and ccx secrets/state
+.credentials.json
+.credentials.prev.json
+.claude.json
+oauth-token
+accounts.json
+ClaudeSetupBackup-*/
+.claude-auto-switch/
+.claude/
+
+# Debug/session data
+*.log
+*.jsonl
+session-debug.log
+
+# Local tooling
+node_modules/
+.idea/
+.vscode/
+*.tmp
+*.bak
